@@ -1,0 +1,106 @@
+{
+  "placeholderImages": [
+    {
+      "id": "love",
+      "description": "A couple in a loving embrace.",
+      "imageUrl": "https://images.unsplash.com/photo-1653688529370-46625c7a548e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb3ZpbmclMjBjb3VwbGV8ZW58MHx8fHwxNzYzNTY4MzY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "loving couple"
+    },
+    {
+      "id": "friends",
+      "description": "A group of friends laughing together.",
+      "imageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmcmllbmRzJTIwbGF1Z2hpbmd8ZW58MHx8fHwxNzE3Mzk0MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "real friends"
+    },
+    {
+      "id": "family",
+      "description": "A family spending quality time together.",
+      "imageUrl": "https://images.unsplash.com/photo-1542037104857-ffbb0b9155fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoYXBweSUyMGZhbWlseXxlbnwwfHx8fDE3NjM0OTMwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy family"
+    },
+    {
+      "id": "business",
+      "description": "Professionals in a business meeting.",
+      "imageUrl": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxidXNpbmVzcyUyMG1lZXRpbmd8ZW58MHx8fHwxNzYzNDQ3NTc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business meeting"
+    },
+    {
+      "id": "love-sophia",
+      "description": "Portrait of a beautiful woman named Sophia",
+      "imageUrl": "https://images.unsplash.com/photo-1506795660198-e95c77602129?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWF1dGlmdWwlMjB3b21hbnxlbnwwfHx8fDE3NjM1Njg4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beautiful woman"
+    },
+    {
+      "id": "love-isabella",
+      "description": "Portrait of a beautiful woman named Isabella",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1556151994-b611e5ab3675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxob3QlMjB3b21hbnxlbnwwfHx8fDE3NjM1Njg4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hot woman"
+    },
+    {
+      "id": "love-liam",
+      "description": "Portrait of a handsome man named Liam",
+      "imageUrl": "https://images.unsplash.com/photo-1611608822650-925c227ef4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYW5kc29tZSUyMG1hbnxlbnwwfHx8fDE3NjM1MTgzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handsome man"
+    },
+    {
+      "id": "love-noah",
+      "description": "Portrait of a handsome man named Noah",
+      "imageUrl": "https://images.unsplash.com/photo-1440133197387-5a6020d5ace2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxob3QlMjBtYW58ZW58MHx8fHwxNzYzNTY4ODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hot man"
+    },
+    {
+      "id": "friends-mia",
+      "description": "Portrait of a friendly woman named Mia",
+      "imageUrl": "https://images.unsplash.com/photo-1576094117939-d71b1195ab7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnJpZW5kbHklMjB3b21hbnxlbnwwfHx8fDE3NjM1NTEwNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friendly woman"
+    },
+    {
+      "id": "friends-chloe",
+      "description": "Portrait of a friendly woman named Chloe",
+      "imageUrl": "https://images.unsplash.com/photo-1614436201459-156d322d38c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbWlsaW5nJTIwd29tYW58ZW58MHx8fHwxNzYzNDcwODE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling woman"
+    },
+    {
+      "id": "friends-ethan",
+      "description": "Portrait of a friendly man named Ethan",
+      "imageUrl": "https://images.unsplash.com/photo-1758179765242-66d864a121f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcmllbmRseSUyMG1hbnxlbnwwfHx8fDE3NjM1MjA5ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friendly man"
+    },
+    {
+      "id": "friends-mason",
+      "description": "Portrait of a friendly man named Mason",
+      "imageUrl": "https://images.unsplash.com/photo-1623184663110-89ba5b565eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWlsaW5nJTIwbWFufGVufDB8fHx8MTc2MzQ5MzAyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling man"
+    },
+    {
+      "id": "family-dad",
+      "description": "Portrait of a caring father",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjU1NzIzODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "older man"
+    },
+    {
+      "id": "family-mom",
+      "description": "Portrait of a loving mother",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8fDE3NjU1NzIzODNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "older woman"
+    },
+    {
+      "id": "family-brother",
+      "description": "Portrait of a friendly brother",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMG1hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MzU3MDAyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brother portrait"
+    },
+    {
+      "id": "business-cofounder",
+      "description": "Portrait of a mature co-founder",
+      "imageUrl": "https://images.unsplash.com/photo-1557862921-37829c790f19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjM1NzAwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mature professional"
+    },
+    {
+      "id": "business-mentor",
+      "description": "Portrait of a professional business mentor",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjB3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8fDE3NjM1NzAwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business mentor"
+    }
+  ]
+}
